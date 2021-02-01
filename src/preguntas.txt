@@ -1,0 +1,48 @@
+Identifique cuál de los siguientes enunciados es una proposición,5927 es un numero par,¿Qué hora es?,¡Pare,por favor!,El atardecer en la playa es romántico.
+La proposición es:,Un enunciado que posee sentido de ser verdadero o falso,Un enunciado verdadero,Un enunciado sin sentido,Ninguna.
+Identifique cuál de los siguientes enunciados no es una proposición.,Computación,Hubo escasez de lluvias,Mi correo electrónico es matdis@espol.edu.ec,5(3+4) =36.
+Su característica fundamental es la verdad o falsedad,Proposición,Enunciado,Frase,Oración.
+Identifique cuál de los siguientes enunciados es una proposición,Neil Armstrong caminó sobre la luna,3 + x > 7,¡Márchate!,3 – x = 7.
+La disyunción “p v q” se llama inclusiva porque admite:,La verdad de p y la verdad de q a la vez,O bien la verdad de p o bien solo la verdad de q,La falsedad de p y la falsedad de q a la vez,La verdad de q y la falsedad de p a la vez.
+Un condicional es falso cuando:,El antecedente es verdadero y el consecuente falso,Solo el consecuente es verdadero,El antecedente y el consecuente son verdaderos,El antecedente y el consecuente son falsos.
+La siguiente expresión: “Luis estudia y trabaja” pertenece a las proposiciones:,Conjuntivas,Bicondicionales,Disyuntivas inclusivas,Implicativas.
+La proposición: “No ocurre que Juan no postula a San Marcos” se simboliza de la siguiente manera.,¬ (¬p),¬(p v q),¬(p),¬q v ¬p.
+Si un condicional en todos los casos posibles tiene falso el valor de su antecedente.,Será siempre un condicional tautológico,Sera decisivo que el consecuente sea falso,La negación de este condicional será tautología,Serán siempre un condicional contradictorio.
+Si la proposición P es verdadera y Q es verdadera ¿cuál proposición es incorrecta?,P → Q = F,P → Q = V,P ∧ Q = V,P v ¬Q = V.
+Siendo la proposición “Si el país esta bien económicamente yo tengo empleo” verdadera entonces la condición necesaria de la proposición es:,Yo tengo empleo,Ni tengo empleo ni el país está bien económicamente,Yo no tengo empleo,El país está bien económicamente.
+Una reciproca de la proposición “Compro y uso el traje gris si me pagan”.,Si compro y uso el traje gris entonces me pagan,Si no compro o no uso el traje gris entonces no me pagan,Si no me pagan entonces no compro o no uso el traje gris,Si me pagan entonces compro y uso el traje gris.
+Una inversa de la proposición “Compro y uso el traje gris si me pagan”.,Si no me pagan entonces no compro o no uso el traje gris,Si compro y uso el traje gris entonces me pagan,Si no compro o no uso el traje gris entonces me pagan,Si no compro o no uso el traje gris entonces no me pagan.
+Si la proposición [(p → ¬ q) → (r ∧ ¬ s)] ∧ [ p ∧ (¬ r ∧ s)] es verdadera. Entonces es cierto que:,(q ∧ s) es verdadera,(p v q) es falsa,q es falsa,(p ∧ ¬r) es falsa.
+Si p y q son dos formas proposicionales tautológicas entonces es verdad que:,p ∧ q es una forma proposicional tautológica,p → q no es una forma proposicional tautológica,p ∨ ¬p es una contradicción,q → ¬p es una contingencia.
+La expresión “Cada vez que miento (p) me castigan (q)” es equivalente a:,¬p v q,p v q,p <--> q,p ∧ q.
+Al reducir la expresión [¬ (p → q) v q] se obtiene:,(p v q),¬p,¬q,q.
+En una conjunción pueden cambiarse de lugar los elementos de esta sin que varíe. Esta ley se conoce como:,Conmutativa,Absorción,Adición,Asociación.
+“p” es equivalente a:,p ∧ p,p v (q v p),p ∧ 0,p v 1.
+Cual equivalencia no forma parte de la propiedad de Morgan,(¬P ^ ¬Q) ≡ (¬P v ¬Q),¬(P ^ Q) ≡ (¬P v ¬Q),¬(P v Q) ≡ (¬P ^ ¬Q),(P v Q) ≡ ¬(¬P ^ ¬Q).
+Cual seria una interpretacion de P(x)={x|¬ x<=8},x es mayor que 8,x es 8,x es menor que 8,x es menor igual que 8
+Que no carateriza al cuantificador universal,"es un","para todo","para cualquier","para cada"
+Que operador no es indespensable en la logica,=>,^,v,¬
+Que no forma parte de la proposicion condicional,antecedentem,consecuente,si... entonces
+Cual no es una forma Modus de inferencia logica,Modus Morgan Ponen,Modus Ponendo Ponens,Modus Tollendo Tollens,Modus Tollendo Ponens
+Cual no es una Regla de inferencia logica,Regla del Dilema Hipotetico,Regla de simplificación,Regla de adición,Regla de silogismo hipotético
+Que no forma parte de la deduccion logica,Negacion,Premisas,Consecuente,Reglas de Inferencias
+Que no carateriza al cuantificador existencial,tal vez,para algun,existe un,existe al menos un
+Cual no es un tipo de demostracion,validacion,contrajemplo,contradiccion,rerucion al absurdo
+Que es verdad sobre el razonamiento deductivo,consta de hipotesis y conclusiones,no sirve con variables proposicionales, es una forma de demostracion directa, solo puede ser verdadero o falso
+La induccion matematica primero prueba si funciona para;el primer termino, el caso x, todos los casos, el termino n
+la induccion prueba que, si funciona para el caso n -> funciona para el caso n+1,que si funciona para el primer caso funciona en todos los demas, que si funciona en el caso uno funciona en el  caso n, que si es funciona en una sucesion de casos funciona en todos los casos
+El principio del buen orden solo existe ..., es universal en las matematicas, solo en los numero reales, no existe en los numeros irracionales, en casos de conjuntos finitos
+La logica no ..., se centra en el significado del enunciado, estudia el razonamiento, se centra en las relaciones de los enunciados,analiza si un razonamiento es correcto
+Un razonamiento puede ser correcto, verdadero o falso,real,complejo o simple
+Una proposicion es..., verdadera o falsa, es verdadera, es falsa, es ambigua
+Los conectores...,sirven para conectar variables proposicionales,solo conectan variables del mismo valor, crena proposiciones simples,se usan solo para definir dominios
+Una condicional p->q es falsa si,p=1 q=0,p=q=0,p=q,p=0 q=1
+Si la primera parte de la condicional es falsa...,la proposicion siempre sera verdadera,la proposicion solo puede tomar un solo valor en la consecuente,el consencuente es falso,el consencuente es falso
+El bicondicional...,es falso si ambos son diferentes,es verdadero si ambas partes son falsas,es verdadero si ambos son verdaderos, es falso si ambos son falsos
+La implicacion...,es verdadera si ambas partes son verdaderas,es falso solo si ambos son falso,es verdadero solo si ambas partes son de diferente valos de verdad
+La disyunción...,es verdadero si cualquiera de las dos partes es verdadera,es falsa si ambas partes tienen el mismos valor de verdad,es falso si ambas partes son verdaderas, es falso si una de las dos partes es falsa
+La equivalencia logica es,cuando ambas partes de la igualdad tienen el mismo valor de verdad,cuando ambas partes de la igualdad son iguales,cuando ambas partes de la igualdad usan el mismo valor de verdad en sus variables,cuando ambas partes de la igualdad tienen el mismo numero de conectores
+La implicacion no es...,simetrica,idempotente,conmutativa,asociativa
+Las leyes de morgan...,son biyectivas,son antitransitivas,son antisimetricas,son sobreyectivas
+Los axiomas,son verdades irrefutables dentro de un sistema,se consideran verdaderas para un caso particular,solo se definen en propiedades matematicas,son independientes de axiomas anteriores
+Las pruebas...,buscan la validez de una proposicion (teoremas en especial),buscan una simplificacion de una proposicion,solo pueden ser directas,no definen el valor de verdad en conjuntos infinitos
